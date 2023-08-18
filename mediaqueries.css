@@ -43,6 +43,11 @@
 }
 
 @media screen and (max-width: 600px) {
+
+  #preloader{
+    background-size: 170%;
+  }
+  
   #contact,
   footer {
     height: 40vh;
